@@ -177,3 +177,8 @@ basiskaart:
 ondergrond:
   files_to_download:
     historischeonderzoeken: kaartlaag_database_historisch_onderzoeken.geojson
+bbga:
+  data_endpoints:
+    bbga_latest_and_greatest: dcatd/datasets/G5JpqNbhweXZSw/purls/LXGOPUQQfAXBbg
+    metadata_latest_and_greatest: dcatd/datasets/G5JpqNbhweXZSw/purls/_V6g35HdgsK2nA
+    bbga_std_latest_and_greatest: dcatd/datasets/G5JpqNbhweXZSw/purls/2
